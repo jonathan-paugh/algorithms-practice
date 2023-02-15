@@ -1,1 +1,3 @@
-# algorithms-practice
+# Algorithms Practice
+
+Practice algorithm questions and solutions.
